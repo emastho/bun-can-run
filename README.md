@@ -11,7 +11,7 @@
 |--|--|--|--|
 |✅| Elysia | https://github.com/elysiajs/elysia |
 |✅|Hono|https://github.com/honojs|
-|✅|Express|https://github.com/expressjs/express
+||Express|https://github.com/expressjs/express|2023.05.28
 
 ### Databases
 || module |  github | last checked |
@@ -27,3 +27,10 @@
 |--|--|--|--|
 |✅| fp-ts | https://github.com/gcanti/fp-ts |
 ||purify-ts|https://github.com/gigobyte/purify| 2023.05.28
+
+### web3 frameworks
+|| module |  github | last checked | Comments |
+|--|--|--|--|--|
+|⚠️| Web3 | https://github.com/web3/web3.js |2023.05.28| only works if required `const Web3 = require("web3/dist/web3.min.js");`
+|⚠️| Viem | https://github.com/wagmi-dev/viem |2023.05.28| Doesn't work unless used with `bun build`
+
