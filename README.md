@@ -22,6 +22,11 @@
 |✅|redis|https://github.com/redis/node-redis|
 ||mongodb|https://github.com/mongodb/node-mongodb-native| 2023.05.28
 
+### Fullstack frameworks
+||module|github|last checked|
+|--|--|--|--|
+|✅| Buchta | https://github.com/Fire-The-Fox/buchta |
+
 ### Libraries
 || module |  github | last checked |
 |--|--|--|--|
