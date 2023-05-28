@@ -1,8 +1,9 @@
-
+<a href="https://bun.sh">
 <p align="center">
   <img src="https://raw.githubusercontent.com/emastho/bun-can-run/main/bun.svg" alt="Bun logo" /><br/>
   bun.sh
 </p>
+</a>
 <br /><br />
 
 ### Backend frameworks
