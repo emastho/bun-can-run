@@ -1,7 +1,8 @@
 
-![Bun logo](https://raw.githubusercontent.com/emastho/bun-can-run/main/bun.svg)<br />
-<br /><br /><br /><br />
-[bun.sh](https://bun.sh)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/emastho/bun-can-run/main/bun.svg" alt="Bun logo" /><br/>
+  bun.sh
+</p>
 <br /><br />
 
 ### Backend frameworks
