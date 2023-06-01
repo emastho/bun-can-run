@@ -22,6 +22,11 @@
 |✅|redis|https://github.com/redis/node-redis|
 ||mongodb|https://github.com/mongodb/node-mongodb-native| 0.6.0
 
+### ORMs
+||module|github|when|
+|--|--|--|--|
+|⚠️|prisma|https://github.com/prisma/prisma|0.6.6|if you use the prisma data proxy, it works. so that's a workaround for now. the napi-based prisma engine does not work yet|
+
 ### Libraries
 || module |  github | when |
 |--|--|--|--|
