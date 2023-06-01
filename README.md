@@ -57,6 +57,7 @@
 |✅|otpauth|https://github.com/hectorm/otpauth||one time password (HOTP/TOTP)
 |✅| fp-ts | https://github.com/gcanti/fp-ts ||
 |✅|purify-ts|https://github.com/gigobyte/purify||fp but with method chaining|
+|✅|garph|https://github.com/stepci/garph||end-to-end type-safe graphql
 
 <br />
 
