@@ -50,6 +50,7 @@
 ### GraphQL
 ||module|github|when|comments|
 |--|--|--|--|--|
+|✅|graphql|https://github.com/graphql/graphql-js|
 |✅|graphql-yoga|https://github.com/dotansimha/graphql-yoga|
 
 <br />
