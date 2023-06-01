@@ -26,9 +26,9 @@
 ||mongodb|https://github.com/mongodb/node-mongodb-native| 0.6.0
 
 ### ORMs
-||module|github|when|
-|--|--|--|--|
-|⚠️|prisma|https://github.com/prisma/prisma|0.6.6|if you use the prisma data proxy, it works. so that's a workaround for now. the napi-based prisma engine does not work yet|
+||module|github|when|comments|
+|--|--|--|--|--|
+|⚠️|prisma|https://github.com/prisma/prisma|0.6.6|napi-based prisma engine does not work yet, workaround is prisma data proxy|
 
 ### Libraries
 || module |  github | when |
