@@ -7,9 +7,11 @@
 <br /><br />
 
 ### Backend frameworks
+> Most of the native frameworks are *way* more performant than node ports.
+
 ||module|github|when|comments|
 |--|--|--|--|--|
-|✅| Elysia | https://github.com/elysiajs/elysia |
+|✅| Elysia | https://github.com/elysiajs/elysia | | has oauth2 plugin
 |✅|Hono|https://github.com/honojs|
 |✅|Stric|https://github.com/bunsvr|
 |⚠️|Express|https://github.com/expressjs/express|2023.05.28|querystrings missing|
