@@ -11,39 +11,39 @@
 
 ||module|github|when|comments|
 |--|--|--|--|--|
-|✅| Elysia | https://github.com/elysiajs/elysia | | has oauth2, graphql, trpc plugins
-|✅|Hono|https://github.com/honojs||has graphql, trpc middleware
-|✅|Stric|https://github.com/bunsvr|
-|⚠️|Express|https://github.com/expressjs/express|0.6.6|mostly work, querystrings missing|
+|✔️| Elysia | https://github.com/elysiajs/elysia | | has oauth2, graphql, trpc plugins
+|✔️|Hono|https://github.com/honojs||has graphql, trpc middleware
+|✔️|Stric|https://github.com/bunsvr|
+|🔧|Express|https://github.com/expressjs/express|0.6.6|mostly work, querystrings missing|
 
 <br />
 
 ### Databases
 || module |  github | when | comments |
 |--|--|--|--|--|
-|✅| pg | https://github.com/brianc/node-postgres |
-|✅|postgres|https://github.com/porsager/postgres|
+|✔️| pg | https://github.com/brianc/node-postgres |
+|✔️|postgres|https://github.com/porsager/postgres|
 ||mongoose|https://github.com/Automattic/mongoose| 0.6.6
 ||mongodb|https://github.com/mongodb/node-mongodb-native| 0.6.0
-|✅|mysql2|https://github.com/sidorares/node-mysql2|
-|✅|redis|https://github.com/redis/node-redis|
-|✅|bun:sqlite|https://bun.sh/docs/api/sqlite||native
+|✔️|mysql2|https://github.com/sidorares/node-mysql2|
+|✔️|redis|https://github.com/redis/node-redis|
+|✔️|bun:sqlite|https://bun.sh/docs/api/sqlite||native
 
 <br />
 
 ### ORMs
 ||module|github|when|comments|
 |--|--|--|--|--|
-|⚠️|Prisma|https://github.com/prisma/prisma|0.6.6|only prisma data proxy works|
-|✅|BunORM|https://github.com/deadlinecode/BunORM||sqlite only
+|🔧|Prisma|https://github.com/prisma/prisma|0.6.6|only prisma data proxy works|
+|✔️|BunORM|https://github.com/deadlinecode/BunORM||sqlite only
 
 <br />
 
 ### Full stack frameworks
 ||name|github|when|comments|
 |--|--|--|--|--|
-|✅|Buchta|https://github.com/Fire-The-Fox/buchta||svelte, preact
-|⚠️|SvelteKit|https://github.com/sveltejs/kit|0.6.6|[svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun)
+|✔️|Buchta|https://github.com/Fire-The-Fox/buchta||svelte, preact
+|🔧|SvelteKit|https://github.com/sveltejs/kit|0.6.6|[svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun)
 ||Next.js|https://github.com/vercel/next.js|0.6.6|react
 
 <br />
@@ -51,8 +51,8 @@
 ### GraphQL
 ||module|github|when|comments|
 |--|--|--|--|--|
-|✅|graphql|https://github.com/graphql/graphql-js|
-|✅|graphql-yoga|https://github.com/dotansimha/graphql-yoga|
+|✔️|graphql|https://github.com/graphql/graphql-js|
+|✔️|graphql-yoga|https://github.com/dotansimha/graphql-yoga|
 
 <br />
 
@@ -60,20 +60,20 @@
 || module |  github | when | comments |
 |--|--|--|--|--|
 ||nodemailer|https://github.com/nodemailer/nodemailer|0.6.6|
-|✅|dotenv|https://bun.sh/docs/cli/run#environment-variables||native, Bun.env.VARIABLE
-|✅|zod|https://github.com/colinhacks/zod||schema validation
+|✔️|dotenv|https://bun.sh/docs/cli/run#environment-variables||native, Bun.env.VARIABLE
+|✔️|zod|https://github.com/colinhacks/zod||schema validation
 || Discord.js | https://github.com/discordjs/discord.js | 0.6.6 | waiting for pr merge |
-|⚠️|sharp|https://github.com/lovell/sharp|0.6.6|image \| has issues, basic use may work
-|✅|jose|https://github.com/panva/jose||JWA, JWS, JWE, JWT, JWK, JWKS|
-|✅|otpauth|https://github.com/hectorm/otpauth||one time password (HOTP/TOTP)
-|✅| fp-ts | https://github.com/gcanti/fp-ts ||
-|✅|purify-ts|https://github.com/gigobyte/purify||fp but with method chaining|
-|✅|garph|https://github.com/stepci/garph||end-to-end type-safe graphql
+|🔧|sharp|https://github.com/lovell/sharp|0.6.6|image \| has issues, basic use may work
+|✔️|jose|https://github.com/panva/jose||JWA, JWS, JWE, JWT, JWK, JWKS|
+|✔️|otpauth|https://github.com/hectorm/otpauth||one time password (HOTP/TOTP)
+|✔️| fp-ts | https://github.com/gcanti/fp-ts ||
+|✔️|purify-ts|https://github.com/gigobyte/purify||fp but with method chaining|
+|✔️|garph|https://github.com/stepci/garph||end-to-end type-safe graphql
 
 <br />
 
 ### Web3 frameworks
 || module |  github | when | comments |
 |--|--|--|--|--|
-|⚠️| Web3 | https://github.com/web3/web3.js |2023.05.28| only works if required `const Web3 = require("web3/dist/web3.min.js");`
-|⚠️| Viem | https://github.com/wagmi-dev/viem |2023.05.28| Doesn't work unless used with `bun build`
+|🔧| Web3 | https://github.com/web3/web3.js |2023.05.28| only works if required `const Web3 = require("web3/dist/web3.min.js");`
+|🔧| Viem | https://github.com/wagmi-dev/viem |2023.05.28| Doesn't work unless used with `bun build`
