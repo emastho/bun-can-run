@@ -11,6 +11,7 @@
 |--|--|--|--|--|
 |✅| Elysia | https://github.com/elysiajs/elysia |
 |✅|Hono|https://github.com/honojs|
+|✅|Stric|https://github.com/bunsvr|
 |⚠️|Express|https://github.com/expressjs/express|2023.05.28|querystrings missing|
 
 ### Databases
