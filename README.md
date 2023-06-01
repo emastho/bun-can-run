@@ -34,6 +34,7 @@
 || module |  github | when | comments |
 |--|--|--|--|--|
 || Discord.js | https://github.com/discordjs/discord.js | 0.6.6 | waiting for pr merge |
+||nodemailer|https://github.com/nodemailer/nodemailer|0.6.6|
 |✅| fp-ts | https://github.com/gcanti/fp-ts |
 |✅|purify-ts|https://github.com/gigobyte/purify||fp but with method chaining|
 
