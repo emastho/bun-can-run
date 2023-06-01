@@ -16,6 +16,8 @@
 |✅|Stric|https://github.com/bunsvr|
 |⚠️|Express|https://github.com/expressjs/express|2023.05.28|querystrings missing|
 
+<br />
+
 ### Databases
 || module |  github | when |
 |--|--|--|--|
@@ -25,10 +27,14 @@
 |✅|redis|https://github.com/redis/node-redis|
 ||mongodb|https://github.com/mongodb/node-mongodb-native| 0.6.0
 
+<br />
+
 ### ORMs
 ||module|github|when|comments|
 |--|--|--|--|--|
 |⚠️|Prisma|https://github.com/prisma/prisma|0.6.6|napi-based prisma engine does not work yet, workaround is prisma data proxy|
+
+<br />
 
 ### Libraries
 || module |  github | when | comments |
@@ -38,10 +44,14 @@
 |✅| fp-ts | https://github.com/gcanti/fp-ts |
 |✅|purify-ts|https://github.com/gigobyte/purify||fp but with method chaining|
 
+<br />
+
 ### GraphQL
 ||module|github|when|comments|
 |--|--|--|--|--|
 |✅|graphql-yoga|https://github.com/dotansimha/graphql-yoga|
+
+<br />
 
 ### Web3 frameworks
 || module |  github | when | comments |
