@@ -26,4 +26,4 @@
 || module |  github | last checked |
 |--|--|--|--|
 |✅| fp-ts | https://github.com/gcanti/fp-ts |
-||purify-ts|https://github.com/gigobyte/purify| 2023.05.28
+|✅|purify-ts|https://github.com/gigobyte/purify|
