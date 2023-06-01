@@ -41,6 +41,7 @@
 ||name|github|when|comments|
 |--|--|--|--|--|
 |✅|Buchta|https://github.com/Fire-The-Fox/buchta||svelte, preact
+|⚠️|SvelteKit|https://github.com/sveltejs/kit|0.6.6|[svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun)
 ||Next.js|https://github.com/vercel/next.js|0.6.6|react
 
 <br />
