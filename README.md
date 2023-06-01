@@ -11,7 +11,7 @@
 |--|--|--|--|--|
 |✅| Elysia | https://github.com/elysiajs/elysia |
 |✅|Hono|https://github.com/honojs|
-||Express|https://github.com/expressjs/express|2023.05.28|querystrings missing|
+|⚠️|Express|https://github.com/expressjs/express|2023.05.28|querystrings missing|
 
 ### Databases
 || module |  github | when |
