@@ -11,7 +11,7 @@
 
 ||module|github|when|comments|
 |--|--|--|--|--|
-|✅| Elysia | https://github.com/elysiajs/elysia | | has oauth2 plugin, graphql, trpc
+|✅| Elysia | https://github.com/elysiajs/elysia | | has oauth2, graphql, trpc plugins
 |✅|Hono|https://github.com/honojs|
 |✅|Stric|https://github.com/bunsvr|
 |⚠️|Express|https://github.com/expressjs/express|2023.05.28|querystrings missing|
@@ -39,6 +39,7 @@
 
 ### GraphQL
 ||module|github|when|comments|
+|--|--|--|--|--|
 |✅|graphql-yoga|https://github.com/dotansimha/graphql-yoga|
 
 ### Web3 frameworks
