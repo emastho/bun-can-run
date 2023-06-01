@@ -36,6 +36,13 @@
 
 <br />
 
+### Full stack frameworks
+||module|github|when|comments|
+|--|--|--|--|--|
+|✅|Buchta|https://github.com/Fire-The-Fox/buchta||svelte, preact
+
+<br />
+
 ### Libraries
 || module |  github | when | comments |
 |--|--|--|--|--|
