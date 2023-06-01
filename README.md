@@ -28,13 +28,14 @@
 ### ORMs
 ||module|github|when|comments|
 |--|--|--|--|--|
-|⚠️|prisma|https://github.com/prisma/prisma|0.6.6|napi-based prisma engine does not work yet, workaround is prisma data proxy|
+|⚠️|Prisma|https://github.com/prisma/prisma|0.6.6|napi-based prisma engine does not work yet, workaround is prisma data proxy|
 
 ### Libraries
-|| module |  github | when |
-|--|--|--|--|
+|| module |  github | when | comments |
+|--|--|--|--|--|
+|| Discord.js | https://github.com/discordjs/discord.js | 0.6.6 | waiting for pr merge |
 |✅| fp-ts | https://github.com/gcanti/fp-ts |
-|✅|purify-ts|https://github.com/gigobyte/purify|fp but with method chaining|
+|✅|purify-ts|https://github.com/gigobyte/purify||fp but with method chaining|
 
 ### Web3 frameworks
 || module |  github | when | comments |
