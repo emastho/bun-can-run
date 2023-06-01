@@ -14,7 +14,7 @@
 |✅| Elysia | https://github.com/elysiajs/elysia | | has oauth2, graphql, trpc plugins
 |✅|Hono|https://github.com/honojs||has graphql, trpc middleware
 |✅|Stric|https://github.com/bunsvr|
-|⚠️|Express|https://github.com/expressjs/express|2023.05.28|querystrings missing|
+|⚠️|Express|https://github.com/expressjs/express|0.6.6|mostly work, querystrings missing|
 
 <br />
 
