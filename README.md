@@ -49,6 +49,7 @@
 ||nodemailer|https://github.com/nodemailer/nodemailer|0.6.6|
 |✅|zod|https://github.com/colinhacks/zod||schema validation
 || Discord.js | https://github.com/discordjs/discord.js | 0.6.6 | waiting for pr merge |
+|✅|jose|https://github.com/panva/jose||JWA, JWS, JWE, JWT, JWK, JWKS|
 |✅|otpauth|https://github.com/hectorm/otpauth||one time password (HOTP/TOTP)
 |✅| fp-ts | https://github.com/gcanti/fp-ts ||
 |✅|purify-ts|https://github.com/gigobyte/purify||fp but with method chaining|
