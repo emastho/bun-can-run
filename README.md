@@ -38,9 +38,10 @@
 <br />
 
 ### Full stack frameworks
-||module|github|when|comments|
+||name|github|when|comments|
 |--|--|--|--|--|
 |✅|Buchta|https://github.com/Fire-The-Fox/buchta||svelte, preact
+||Next.js|https://github.com/vercel/next.js|0.6.6|react
 
 <br />
 
