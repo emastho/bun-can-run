@@ -34,7 +34,7 @@
 || module |  github | when |
 |--|--|--|--|
 |✅| fp-ts | https://github.com/gcanti/fp-ts |
-|✅|purify-ts|https://github.com/gigobyte/purify|
+|✅|purify-ts|https://github.com/gigobyte/purify|fp but with method chaining|
 
 ### Web3 frameworks
 || module |  github | when | comments |
