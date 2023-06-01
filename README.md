@@ -47,6 +47,13 @@
 
 <br />
 
+### GraphQL
+||module|github|when|comments|
+|--|--|--|--|--|
+|✅|graphql-yoga|https://github.com/dotansimha/graphql-yoga|
+
+<br />
+
 ### Libraries
 || module |  github | when | comments |
 |--|--|--|--|--|
@@ -58,13 +65,6 @@
 |✅| fp-ts | https://github.com/gcanti/fp-ts ||
 |✅|purify-ts|https://github.com/gigobyte/purify||fp but with method chaining|
 |✅|garph|https://github.com/stepci/garph||end-to-end type-safe graphql
-
-<br />
-
-### GraphQL
-||module|github|when|comments|
-|--|--|--|--|--|
-|✅|graphql-yoga|https://github.com/dotansimha/graphql-yoga|
 
 <br />
 
