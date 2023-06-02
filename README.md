@@ -51,6 +51,7 @@
 ### GraphQL
 ||module|github|when|comments|
 |--|--|--|--|--|
+|✔️|@apollo/server|https://github.com/apollographql/apollo-server|
 |✔️|graphql|https://github.com/graphql/graphql-js|
 |✔️|graphql-yoga|https://github.com/dotansimha/graphql-yoga|
 
