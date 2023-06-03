@@ -65,6 +65,7 @@
 |✔️|zod|https://github.com/colinhacks/zod||schema validation
 |✔️| Discord.js | [discordjs/discord.js](https://github.com/discordjs/discord.js) | | |
 |🔧|sharp|https://github.com/lovell/sharp|0.6.6|image \| basic use may work, [discord issue](https://discord.com/channels/876711213126520882/1113918029097603233)
+||Jimp|https://github.com/jimp-dev/jimp|0.6.6|image \| [issue](https://github.com/oven-sh/bun/issues/3122)
 |✔️|jose|https://github.com/panva/jose||JWA, JWS, JWE, JWT, JWK, JWKS|
 ||jsonwebtoken|[auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
 ||jwt-simple|[hokaccha/node-jwt-simple](https://github.com/hokaccha/node-jwt-simple)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
