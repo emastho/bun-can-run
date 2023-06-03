@@ -70,6 +70,7 @@
 |✔️| fp-ts | https://github.com/gcanti/fp-ts ||
 |✔️|purify-ts|https://github.com/gigobyte/purify||fp but with method chaining|
 |✔️|garph|https://github.com/stepci/garph||end-to-end type-safe graphql
+||canvas|https://github.com/Automattic/node-canvas|0.6.6|[@napi-rs/canvas](https://github.com/Brooooooklyn/canvas) may work
 
 <br />
 
