@@ -24,7 +24,7 @@
 |✔️| pg | https://github.com/brianc/node-postgres |
 |✔️|postgres|https://github.com/porsager/postgres|
 |🔧|mongoose|https://github.com/Automattic/mongoose| 0.6.7 | works, but [issue](https://github.com/oven-sh/bun/issues/3195)
-|🔧|mongodb|https://github.com/mongodb/node-mongodb-native| 0.6.7 | same logging issue as mongoose
+|🔧|mongodb|[mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native)| 0.6.7 | same logging issue as mongoose
 |✔️|mysql2|https://github.com/sidorares/node-mysql2|
 |✔️|redis|https://github.com/redis/node-redis|
 |✔️|bun:sqlite|https://bun.sh/docs/api/sqlite||native
@@ -60,10 +60,10 @@
 ### Libraries
 || module |  github | when | comments |
 |--|--|--|--|--|
-||nodemailer|https://github.com/nodemailer/nodemailer|0.6.7|[issue](https://github.com/oven-sh/bun/issues/3003)
+||nodemailer|[nodemailer/nodemailer](https://github.com/nodemailer/nodemailer)|0.6.7|[issue](https://github.com/oven-sh/bun/issues/3003)
 |✔️|dotenv|[bun docs](https://bun.sh/docs/cli/run#environment-variables)||native, Bun.env.VARIABLE
 |✔️|zod|https://github.com/colinhacks/zod||schema validation
-|✔️| Discord.js | https://github.com/discordjs/discord.js | | |
+|✔️| Discord.js | [discordjs/discord.js](https://github.com/discordjs/discord.js) | | |
 |🔧|sharp|https://github.com/lovell/sharp|0.6.6|image \| has issues, basic use may work, [discord issue](https://discord.com/channels/876711213126520882/1113918029097603233)
 |✔️|jose|https://github.com/panva/jose||JWA, JWS, JWE, JWT, JWK, JWKS|
 ||jsonwebtoken|[auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)|0.6.6|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
