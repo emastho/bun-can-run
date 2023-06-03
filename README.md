@@ -34,7 +34,7 @@
 ### ORMs
 ||module|github|when|comments|
 |--|--|--|--|--|
-|🔧|Prisma|https://github.com/prisma/prisma|0.6.6|only prisma data proxy works|
+|✔️|Prisma|https://github.com/prisma/prisma|0.6.6|should work, [closed issue](https://github.com/oven-sh/bun/issues/2083)|
 |✔️|BunORM|https://github.com/deadlinecode/BunORM||sqlite only
 
 <br />
