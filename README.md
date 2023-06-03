@@ -24,7 +24,7 @@
 |✔️| pg | https://github.com/brianc/node-postgres |
 |✔️|postgres|https://github.com/porsager/postgres|
 |🔧|mongoose|https://github.com/Automattic/mongoose| 0.6.7 | works, but [issue](https://github.com/oven-sh/bun/issues/3195)
-||mongodb|https://github.com/mongodb/node-mongodb-native| 0.6.0
+|🔧|mongodb|https://github.com/mongodb/node-mongodb-native| 0.6.7 | same logging issue as mongoose
 |✔️|mysql2|https://github.com/sidorares/node-mysql2|
 |✔️|redis|https://github.com/redis/node-redis|
 |✔️|bun:sqlite|https://bun.sh/docs/api/sqlite||native
