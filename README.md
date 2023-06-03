@@ -23,7 +23,7 @@
 |--|--|--|--|--|
 |✔️| pg | https://github.com/brianc/node-postgres |
 |✔️|postgres|https://github.com/porsager/postgres|
-||mongoose|https://github.com/Automattic/mongoose| 0.6.6
+|✔️|mongoose|https://github.com/Automattic/mongoose|
 ||mongodb|https://github.com/mongodb/node-mongodb-native| 0.6.0
 |✔️|mysql2|https://github.com/sidorares/node-mysql2|
 |✔️|redis|https://github.com/redis/node-redis|
