@@ -70,7 +70,7 @@
 ||jsonwebtoken|[auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
 ||jwt-simple|[hokaccha/node-jwt-simple](https://github.com/hokaccha/node-jwt-simple)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
 |✔️|puppeteer|https://github.com/puppeteer/puppeteer/|
-||@clack/prompts|https://github.com/natemoo-re/clack|0.6.6|[issue](https://github.com/oven-sh/bun/issues/3099)
+||@clack/prompts|https://github.com/natemoo-re/clack|0.6.6|terminal, [issue](https://github.com/oven-sh/bun/issues/3099)
 |✔️|otpauth|https://github.com/hectorm/otpauth||one time password (HOTP/TOTP)
 |✔️| fp-ts | https://github.com/gcanti/fp-ts ||
 |✔️|purify-ts|https://github.com/gigobyte/purify||fp but with method chaining|
