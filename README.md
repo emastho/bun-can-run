@@ -60,7 +60,7 @@
 ### Libraries
 || module |  github | when | comments |
 |--|--|--|--|--|
-||nodemailer|https://github.com/nodemailer/nodemailer|0.6.6|
+||nodemailer|https://github.com/nodemailer/nodemailer|0.6.7|[issue](https://github.com/oven-sh/bun/issues/3003)
 |✔️|dotenv|[bun docs](https://bun.sh/docs/cli/run#environment-variables)||native, Bun.env.VARIABLE
 |✔️|zod|https://github.com/colinhacks/zod||schema validation
 |✔️| Discord.js | https://github.com/discordjs/discord.js | | |
