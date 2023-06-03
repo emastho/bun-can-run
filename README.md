@@ -62,7 +62,7 @@
 || module |  github | when | comments |
 |--|--|--|--|--|
 ||nodemailer|[nodemailer](https://github.com/nodemailer/nodemailer)|0.6.7|[issue](https://github.com/oven-sh/bun/issues/3003)
-|✔️|dotenv|[bun docs](https://bun.sh/docs/cli/run#environment-variables)||native, Bun.env.VARIABLE \| [issue in windows](https://github.com/oven-sh/bun/issues/3042) and [issue](https://github.com/oven-sh/bun/issues/2823)
+|✔️|dotenv|[bun docs](https://bun.sh/docs/cli/run#environment-variables)||native \| [issue in windows](https://github.com/oven-sh/bun/issues/3042) and [issue](https://github.com/oven-sh/bun/issues/2823)
 |✔️|zod|[colinhacks/zod](https://github.com/colinhacks/zod)||schema validation
 |✔️| Discord.js | [discordjs/discord.js](https://github.com/discordjs/discord.js) | | |
 |🔧|sharp|[lovell/sharp](https://github.com/lovell/sharp)|0.6.6|image \| basic use may work, [discord issue](https://discord.com/channels/876711213126520882/1113918029097603233)
@@ -83,5 +83,5 @@
 ### Web3 frameworks
 || module |  github | when | comments |
 |--|--|--|--|--|
-|🔧| Web3 | https://github.com/web3/web3.js |2023.05.28| only works if required `const Web3 = require("web3/dist/web3.min.js");`
-|🔧| Viem | https://github.com/wagmi-dev/viem |2023.05.28| Doesn't work unless used with `bun build`
+|🔧| Web3 | [web3/web3.js](https://github.com/web3/web3.js) |2023.05.28| only works if required `const Web3 = require("web3/dist/web3.min.js");`
+|🔧| Viem | [wagmi-dev/viem](https://github.com/wagmi-dev/viem) |2023.05.28| Doesn't work unless used with `bun build`
