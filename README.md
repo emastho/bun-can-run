@@ -66,6 +66,8 @@
 || Discord.js | https://github.com/discordjs/discord.js | 0.6.6 | waiting for pr merge |
 |🔧|sharp|https://github.com/lovell/sharp|0.6.6|image \| has issues, basic use may work
 |✔️|jose|https://github.com/panva/jose||JWA, JWS, JWE, JWT, JWK, JWKS|
+||jsonwebtoken|https://github.com/auth0/node-jsonwebtoken|0.6.6|jose works|
+||jwt-simple|https://github.com/hokaccha/node-jwt-simple|0.6.6|jose works|
 |✔️|otpauth|https://github.com/hectorm/otpauth||one time password (HOTP/TOTP)
 |✔️| fp-ts | https://github.com/gcanti/fp-ts ||
 |✔️|purify-ts|https://github.com/gigobyte/purify||fp but with method chaining|
