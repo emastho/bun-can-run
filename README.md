@@ -9,7 +9,7 @@
 ### Backend frameworks
 > Most of the native frameworks are *way* more performant than node ports.
 
-||module|github|when|comments|
+||name|github|when|comments|
 |--|--|--|--|--|
 |✔️| Elysia | https://github.com/elysiajs/elysia | | has oauth2, graphql, trpc plugins
 |✔️|Hono|https://github.com/honojs||has graphql, trpc middleware
