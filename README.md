@@ -43,8 +43,8 @@
 ||name|github|when|comments|
 |--|--|--|--|--|
 |✔️|Buchta|https://github.com/Fire-The-Fox/buchta||svelte, preact
-|🔧|SvelteKit|https://github.com/sveltejs/kit|0.6.6|[svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun)
-||Next.js|https://github.com/vercel/next.js|0.6.6|react
+|🔧|SvelteKit|https://github.com/sveltejs/kit|0.6.7|[svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun)
+||Next.js|https://github.com/vercel/next.js|0.6.7|react
 
 <br />
 
@@ -64,16 +64,16 @@
 |✔️|dotenv|[bun docs](https://bun.sh/docs/cli/run#environment-variables)||native, Bun.env.VARIABLE
 |✔️|zod|https://github.com/colinhacks/zod||schema validation
 |✔️| Discord.js | [discordjs/discord.js](https://github.com/discordjs/discord.js) | | |
-|🔧|sharp|https://github.com/lovell/sharp|0.6.6|image \| has issues, basic use may work, [discord issue](https://discord.com/channels/876711213126520882/1113918029097603233)
+|🔧|sharp|https://github.com/lovell/sharp|0.6.6|image \| basic use may work, [discord issue](https://discord.com/channels/876711213126520882/1113918029097603233)
 |✔️|jose|https://github.com/panva/jose||JWA, JWS, JWE, JWT, JWK, JWKS|
-||jsonwebtoken|[auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)|0.6.6|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
-||jwt-simple|[hokaccha/node-jwt-simple](https://github.com/hokaccha/node-jwt-simple)|0.6.6|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
+||jsonwebtoken|[auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
+||jwt-simple|[hokaccha/node-jwt-simple](https://github.com/hokaccha/node-jwt-simple)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
 |✔️|puppeteer|https://github.com/puppeteer/puppeteer/|
 |✔️|otpauth|https://github.com/hectorm/otpauth||one time password (HOTP/TOTP)
 |✔️| fp-ts | https://github.com/gcanti/fp-ts ||
 |✔️|purify-ts|https://github.com/gigobyte/purify||fp but with method chaining|
 |✔️|garph|https://github.com/stepci/garph||end-to-end type-safe graphql
-||canvas|https://github.com/Automattic/node-canvas|0.6.6|[@napi-rs/canvas](https://github.com/Brooooooklyn/canvas) may work
+||canvas|https://github.com/Automattic/node-canvas|0.6.7|[@napi-rs/canvas](https://github.com/Brooooooklyn/canvas) may work
 
 <br />
 
