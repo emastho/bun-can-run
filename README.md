@@ -67,7 +67,7 @@
 |🔧|sharp|https://github.com/lovell/sharp|0.6.6|image \| has issues, basic use may work, [discord issue](https://discord.com/channels/876711213126520882/1113918029097603233)
 |✔️|jose|https://github.com/panva/jose||JWA, JWS, JWE, JWT, JWK, JWKS|
 ||jsonwebtoken|[auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)|0.6.6|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
-||jwt-simple|[hokaccha/node-jwt-simple](https://github.com/hokaccha/node-jwt-simple)|0.6.6|jose works [issue](https://github.com/oven-sh/bun/issues/1454)|
+||jwt-simple|[hokaccha/node-jwt-simple](https://github.com/hokaccha/node-jwt-simple)|0.6.6|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
 |✔️|otpauth|https://github.com/hectorm/otpauth||one time password (HOTP/TOTP)
 |✔️| fp-ts | https://github.com/gcanti/fp-ts ||
 |✔️|purify-ts|https://github.com/gigobyte/purify||fp but with method chaining|
