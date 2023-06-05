@@ -73,6 +73,7 @@
 ||jwt-simple|[node-jwt-simple](https://github.com/hokaccha/node-jwt-simple)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
 |✔️|puppeteer|[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer/)|
 ||@clack/prompts|[natemoo-re/clack](https://github.com/natemoo-re/clack)|0.6.6|terminal, [issue](https://github.com/oven-sh/bun/issues/3099)
+||Inquirer|[Inquirer.js](https://github.com/SBoudrias/Inquirer.js)|0.6.8|terminal, [issue](https://github.com/oven-sh/bun/issues/3205)
 |✔️|otpauth|[hectorm/otpauth](https://github.com/hectorm/otpauth)||one time password (HOTP/TOTP)
 |✔️| fp-ts | [gcanti/fp-ts](https://github.com/gcanti/fp-ts) ||
 |✔️|purify-ts|[gigobyte/purify](https://github.com/gigobyte/purify)||fp but with method chaining|
