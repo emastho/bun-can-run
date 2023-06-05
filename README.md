@@ -74,7 +74,7 @@
 |✔️|puppeteer|[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer/)|
 ||@clack/prompts|[natemoo-re/clack](https://github.com/natemoo-re/clack)|0.6.6|terminal, [issue](https://github.com/oven-sh/bun/issues/3099)
 ||Inquirer|[Inquirer.js](https://github.com/SBoudrias/Inquirer.js)|0.6.8|terminal, [issue](https://github.com/oven-sh/bun/issues/3205)
-||@googlemaps/google-maps-services-js|[google-maps-services-js](https://github.com/googlemaps/google-maps-services-js)|0.6.5|[issue](https://github.com/oven-sh/bun/issues/3211)
+||<sub><sup>@googlemaps/google-maps-services-js</sup></sub>|[google-maps-services-js](https://github.com/googlemaps/google-maps-services-js)|0.6.5|[issue](https://github.com/oven-sh/bun/issues/3211)
 |✔️|otpauth|[hectorm/otpauth](https://github.com/hectorm/otpauth)||one time password (HOTP/TOTP)
 |✔️| fp-ts | [gcanti/fp-ts](https://github.com/gcanti/fp-ts) ||
 |✔️|purify-ts|[gigobyte/purify](https://github.com/gigobyte/purify)||fp but with method chaining|
