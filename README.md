@@ -80,7 +80,7 @@
 |✔️|garph|[stepci/garph](https://github.com/stepci/garph)||end-to-end type-safe graphql
 ||canvas|[canvas](https://github.com/Automattic/node-canvas)|0.6.7|[@napi-rs/canvas](https://github.com/Brooooooklyn/canvas) may work
 |✔️|ldapjs|[ldapjs](https://github.com/ldapjs/node-ldapjs)||should work, because ldap-authenticate uses it underneath|
-|✔️|<sub><sup>ldap-authentication</sup></sub>|[ldap-authentication](https://github.com/shaozi/ldap-authentication)||[should work](https://github.com/oven-sh/bun/issues/3199)
+|✔️|ldap-authentication|[ldap-authentication](https://github.com/shaozi/ldap-authentication)||[should work](https://github.com/oven-sh/bun/issues/3199)
 
 <br />
 
