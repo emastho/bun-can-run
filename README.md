@@ -36,6 +36,7 @@
 ||module|github|when|comments|
 |--|--|--|--|--|
 |✔️|Prisma|https://github.com/prisma/prisma|||
+|⌛|Drizzle-orm|https://github.com/drizzle-team/drizzle-orm|unknown
 |✔️|BunORM|https://github.com/deadlinecode/BunORM||sqlite only
 
 <br />
@@ -75,6 +76,7 @@
 ||@clack/prompts|[natemoo-re/clack](https://github.com/natemoo-re/clack)|0.6.6|terminal, [issue](https://github.com/oven-sh/bun/issues/3099)
 |✔️|chalk|[chalk/chalk](https://github.com/chalk/chalk)||terminal
 |✔️|commander|[commander](https://github.com/tj/commander.js)||terminal
+|✔️|lodash|[lodash/lodash](https://github.com/lodash/lodash)||[possible issue](https://github.com/oven-sh/bun/issues/3224)
 |✔️|underscore|[underscore](https://github.com/jashkenas/underscore/)||
 ||Inquirer|[Inquirer.js](https://github.com/SBoudrias/Inquirer.js)|0.6.8|terminal, [issue](https://github.com/oven-sh/bun/issues/3205)
 ||<sub><sup>@googlemaps/google-maps-services-js</sup></sub>|[google-maps-services-js](https://github.com/googlemaps/google-maps-services-js)|0.6.5|[issue](https://github.com/oven-sh/bun/issues/3211)
