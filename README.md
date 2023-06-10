@@ -72,6 +72,7 @@
 |✔️|jose|[panva/jose](https://github.com/panva/jose)||JWA, JWS, JWE, JWT, JWK, JWKS|
 ||jsonwebtoken|[node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
 ||jwt-simple|[node-jwt-simple](https://github.com/hokaccha/node-jwt-simple)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
+|✔️|oauth4webapi|[panva/oauth4webapi](https://github.com/panva/oauth4webapi)||oauth openid
 |✔️|puppeteer|[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer/)|
 ||@clack/prompts|[natemoo-re/clack](https://github.com/natemoo-re/clack)|0.6.6|terminal, [issue](https://github.com/oven-sh/bun/issues/3099)
 |✔️|chalk|[chalk/chalk](https://github.com/chalk/chalk)||terminal
