@@ -25,7 +25,7 @@
 |✔️| pg | [brianc/node-postgres](https://github.com/brianc/node-postgres) |
 |✔️|postgres|https://github.com/porsager/postgres|
 |🔧|mongoose|[Automattic/mongoose](https://github.com/Automattic/mongoose)| 0.6.7 | works, but [issue](https://github.com/oven-sh/bun/issues/3195)
-|🔧|mongodb|[mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native)| 0.6.7 | same as mongoose
+|🔧|mongodb|[mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native)| 0.6.7 | same as mongoose, [discord issue](https://discord.com/channels/876711213126520882/1116019102788636822)
 |✔️|mysql2|[sidorares/node-mysql2](https://github.com/sidorares/node-mysql2)|
 |✔️|redis|https://github.com/redis/node-redis|
 |✔️|bun:sqlite|https://bun.sh/docs/api/sqlite||native
