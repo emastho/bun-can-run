@@ -1,1 +1,18 @@
-[{"works":1,"module":"module","github":"maybe"}]
+[
+	{
+		"category": "1",
+		"works": "0",
+		"module": "elysiajs",
+		"github": "github",
+		"when": "",
+		"comments": "comment"
+	},
+	{
+		"category": "1",
+		"works": "5",
+		"module": "other",
+		"github": "edge",
+		"when": "",
+		"comments": "cat"
+	}
+]
