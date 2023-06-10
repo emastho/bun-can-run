@@ -1,14 +1,16 @@
 import fs from "node:fs";
 import csv from "csv-parser";
 
-let results: {
+interface Table {
   category: number;
   works: number;
   module: string;
   github: string;
   when: string;
   comments: string;
-}[] = [];
+}
+
+let results: Table[] = [];
 
 const log = <T>(a: T) => {
   console.log(a);
@@ -42,36 +44,50 @@ function otherThingies() {
 
 ||name|github|when|comments|
 |--|--|--|--|--|
-[backends]
+[insert]
 `;
 
-  const finalBackends = backends.replace(/\[backends\]/g, () => {
-    const stringx = results
-      .filter((item) => item.category == 0)
-      .map((object) => {
-        let works;
+  const makeTable = (table: string, filter: () => void) =>
+    table.replace(/\[insert\]/g, () => {
+      const stringx = results
+        .filter(filter)
+        .map((object) => {
+          let works;
 
-        if (object.works == 0) {
-          works = "";
-        } else if (object.works == 1) {
-          works = "✔️";
-        } else {
-          works = "🔧";
-        }
+          if (object.works == 0) {
+            works = "";
+          } else if (object.works == 1) {
+            works = "✔️";
+          } else {
+            works = "🔧";
+          }
 
-        return `|${works}|${object.module}|${object.github}|${object.when}|${object.comments}|`;
-      })
-      .join("\n");
+          return `|${works}|${object.module}|${object.github}|${
+            object.when ?? ""
+          }|${object.comments ?? ""}|`;
+        })
+        .join("\n");
 
-    return stringx;
-  });
+      return stringx;
+    });
+
+  const databases = `
+### Databases
+|| module |  github | when | comments |
+|--|--|--|--|--|
+[insert]
+  `;
 
   let markdown = `
 ${header.trim()}
 
 <br />
 
-${finalBackends.trim()}
+${makeTable(backends, (item) => item.category == 0).trim()}
+
+<br />
+
+${makeTable(databases, (item) => item.category == 1).trim()}
 `.trim();
 
   Bun.write("../data.json", JSON.stringify(results, null, "\t"));
