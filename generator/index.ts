@@ -92,7 +92,14 @@ ${makeTable(backends, category(0)).trim()}
 ${makeTable(databases, category(1)).trim()}
 `.trim();
 
-  Bun.write("../data.json", JSON.stringify(results, null, "\t"));
+  const modifiedResults = results.map((item) => {
+    return {
+      ...item,
+      github: item.github.replace(/\[.*?\]\((.*?)\)/, "$1"),
+    };
+  });
+
+  Bun.write("../data.json", JSON.stringify(modifiedResults, null, "\t"));
   Bun.write("../TEST.md", markdown);
 }
 

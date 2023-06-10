@@ -42,7 +42,7 @@
 		"category": "1",
 		"works": "1",
 		"module": "pg",
-		"github": "[brianc/node-postgres](https://github.com/brianc/node-postgres)",
+		"github": "https://github.com/brianc/node-postgres",
 		"when": ""
 	},
 	{
@@ -56,7 +56,7 @@
 		"category": "1",
 		"works": "3",
 		"module": "mongoose",
-		"github": "[Automattic/mongoose](https://github.com/Automattic/mongoose)",
+		"github": "https://github.com/Automattic/mongoose",
 		"when": "0.6.8",
 		"comments": "works, but [issue](https://github.com/oven-sh/bun/issues/3195)"
 	},
@@ -64,7 +64,7 @@
 		"category": "1",
 		"works": "3",
 		"module": "mongodb",
-		"github": "[mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native)",
+		"github": "https://github.com/mongodb/node-mongodb-native",
 		"when": "0.6.8",
 		"comments": "same as mongoose, [discord issue](https://discord.com/channels/876711213126520882/1116019102788636822)"
 	},
@@ -72,7 +72,7 @@
 		"category": "1",
 		"works": "1",
 		"module": "mysql2",
-		"github": "[sidorares/node-mysql2](https://github.com/sidorares/node-mysql2)",
+		"github": "https://github.com/sidorares/node-mysql2",
 		"when": ""
 	}
 ]
