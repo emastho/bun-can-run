@@ -17,7 +17,7 @@ const log = <T>(a: T) => {
   return a;
 };
 
-fs.createReadStream("data.csv")
+fs.createReadStream("../data.csv")
   .pipe(csv({ separator: ";" }))
   .on("data", (data) => results.push(data))
   .on("end", () => {
@@ -47,7 +47,9 @@ function otherThingies() {
 [insert]
 `;
 
-  const makeTable = (table: string, filter: () => void) =>
+  const category = (which: number) => (item) => item.category == which;
+
+  const makeTable = (table: string, filter: (a: any) => boolean) =>
     table.replace(/\[insert\]/g, () => {
       const stringx = results
         .filter(filter)
@@ -83,11 +85,11 @@ ${header.trim()}
 
 <br />
 
-${makeTable(backends, (item) => item.category == 0).trim()}
+${makeTable(backends, category(0)).trim()}
 
 <br />
 
-${makeTable(databases, (item) => item.category == 1).trim()}
+${makeTable(databases, category(1)).trim()}
 `.trim();
 
   Bun.write("../data.json", JSON.stringify(results, null, "\t"));
