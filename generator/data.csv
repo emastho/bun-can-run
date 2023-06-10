@@ -1,3 +1,6 @@
-category,works,module,github,when,comments
-0,1,elysiajs,github,,amazing
-0,1,hono,other,,cat
+category;works;module;github;when;comments
+0;1;Elysiajs;https://github.com/elysiajs/elysia;;has oauth2, graphql, trpc plugins
+0;1;Hono;https://github.com/honojs;;has graphql, trpc middleware
+0;1;Stric;https://github.com/bunsvr;
+0;2;Express;https://github.com/expressjs/express;0.6.6;mostly work, querystrings missing
+0;0;Nestjs;https://github.com/nestjs/nest;0.6.7;[has interest](https://github.com/oven-sh/bun/issues/1641)

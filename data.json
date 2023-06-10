@@ -2,17 +2,40 @@
 	{
 		"category": "0",
 		"works": "1",
-		"module": "elysiajs",
-		"github": "github",
+		"module": "Elysiajs",
+		"github": "https://github.com/elysiajs/elysia",
 		"when": "",
-		"comments": "amazing"
+		"comments": "has oauth2, graphql, trpc plugins"
 	},
 	{
 		"category": "0",
 		"works": "1",
-		"module": "hono",
-		"github": "other",
+		"module": "Hono",
+		"github": "https://github.com/honojs",
 		"when": "",
-		"comments": "cat"
+		"comments": "has graphql, trpc middleware"
+	},
+	{
+		"category": "0",
+		"works": "1",
+		"module": "Stric",
+		"github": "https://github.com/bunsvr",
+		"when": ""
+	},
+	{
+		"category": "0",
+		"works": "2",
+		"module": "Express",
+		"github": "https://github.com/expressjs/express",
+		"when": "0.6.6",
+		"comments": "mostly work, querystrings missing"
+	},
+	{
+		"category": "0",
+		"works": "0",
+		"module": "Nestjs",
+		"github": "https://github.com/nestjs/nest",
+		"when": "0.6.7",
+		"comments": "[has interest](https://github.com/oven-sh/bun/issues/1641)"
 	}
 ]

@@ -16,7 +16,7 @@ const log = <T>(a: T) => {
 };
 
 fs.createReadStream("data.csv")
-  .pipe(csv())
+  .pipe(csv({ separator: ";" }))
   .on("data", (data) => results.push(data))
   .on("end", () => {
     // console.log(results);
@@ -50,10 +50,6 @@ function otherThingies() {
       .filter((item) => item.category == 0)
       .map((object) => {
         let works;
-        let module;
-        let github;
-        let when;
-        let comments;
 
         if (object.works == 0) {
           works = "";
@@ -63,7 +59,7 @@ function otherThingies() {
           works = "🔧";
         }
 
-        return `|${works}|${object.module}|${object.github}|${object.when}|${object.comments}`;
+        return `|${works}|${object.module}|${object.github}|${object.when}|${object.comments}|`;
       })
       .join("\n");
 
