@@ -11,9 +11,9 @@
 
 ||name|github|when|comments|
 |--|--|--|--|--|
-|✔️| Elysia | https://github.com/elysiajs/elysia | | has oauth2, graphql, trpc plugins
+|✔️| Elysia | https://github.com/elysiajs/elysia | | has oauth2, graphql, trpc plugins, ws
 |✔️|Hono|https://github.com/honojs||has graphql, trpc middleware
-|✔️|Stric|https://github.com/bunsvr|
+|✔️|Stric|https://github.com/bunsvr||ws
 |✔️|Vixeny|https://github.com/mimiMonads/functor||functional programming, fp
 |✔️|Express|https://github.com/expressjs/express|||
 ||NestJS|https://github.com/nestjs/nest|0.6.7|[has interest](https://github.com/oven-sh/bun/issues/1641)
