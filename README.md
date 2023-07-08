@@ -92,6 +92,7 @@
 ||canvas|[canvas](https://github.com/Automattic/node-canvas)|0.6.7|[@napi-rs/canvas](https://github.com/Brooooooklyn/canvas) may work
 |✔️|ldapjs|[ldapjs](https://github.com/ldapjs/node-ldapjs)||should work, because ldap-authenticate uses it underneath|
 |✔️|ldap-authentication|[ldap-authentication](https://github.com/shaozi/ldap-authentication)||[should work](https://github.com/oven-sh/bun/issues/3199)
+|✔️|runtimey|[runtimey](https://github.com/tr1ckydev/runtimey)||detect js runtime
 
 <br />
 
