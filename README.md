@@ -37,6 +37,7 @@
 ||module|github|when|comments|
 |--|--|--|--|--|
 |✔️|Prisma|https://github.com/prisma/prisma|||
+|✔️|duckdb|https://github.com/duckdb/duckdb|||
 |✔️|BunORM|https://github.com/deadlinecode/BunORM||sqlite only
 
 <br />
