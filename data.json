@@ -19,8 +19,7 @@
 		"category": "0",
 		"works": "1",
 		"module": "Stric",
-		"github": "https://github.com/bunsvr",
-		"when": ""
+		"github": "https://github.com/bunsvr"
 	},
 	{
 		"category": "0",
@@ -42,15 +41,13 @@
 		"category": "1",
 		"works": "1",
 		"module": "pg",
-		"github": "https://github.com/brianc/node-postgres",
-		"when": ""
+		"github": "https://github.com/brianc/node-postgres"
 	},
 	{
 		"category": "1",
 		"works": "1",
 		"module": "postgres",
-		"github": "https://github.com/porsager/postgres",
-		"when": ""
+		"github": "https://github.com/porsager/postgres"
 	},
 	{
 		"category": "1",

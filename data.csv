@@ -1,11 +1,11 @@
 category;works;module;github;when;comments
 0;1;Elysiajs;https://github.com/elysiajs/elysia;;has oauth2, graphql, trpc plugins
 0;1;Hono;https://github.com/honojs;;has graphql, trpc middleware
-0;1;Stric;https://github.com/bunsvr;
+0;1;Stric;https://github.com/bunsvr
 0;2;Express;https://github.com/expressjs/express;0.6.8;mostly work, querystrings missing
 0;0;Nestjs;https://github.com/nestjs/nest;0.6.7;[has interest](https://github.com/oven-sh/bun/issues/1641)
-1;1;pg;[brianc/node-postgres](https://github.com/brianc/node-postgres);
-1;1;postgres;https://github.com/porsager/postgres;
+1;1;pg;[brianc/node-postgres](https://github.com/brianc/node-postgres)
+1;1;postgres;https://github.com/porsager/postgres
 1;3;mongoose;[Automattic/mongoose](https://github.com/Automattic/mongoose);0.6.8;works, but [issue](https://github.com/oven-sh/bun/issues/3195)
 1;3;mongodb;[mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native);0.6.8;same as mongoose, [discord issue](https://discord.com/channels/876711213126520882/1116019102788636822)
 1;1;mysql2;[sidorares/node-mysql2](https://github.com/sidorares/node-mysql2);
