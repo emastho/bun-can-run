@@ -16,7 +16,7 @@
 |✔️|Stric|https://github.com/bunsvr||ws
 |✔️|Vixeny|https://github.com/mimiMonads/functor||functional programming, fp
 |✔️|Express|https://github.com/expressjs/express|||
-||NestJS|https://github.com/nestjs/nest|0.6.7|[has interest](https://github.com/oven-sh/bun/issues/1641)
+||NestJS|https://github.com/nestjs/nest|0.6.13|[has interest](https://github.com/oven-sh/bun/issues/1641)
 
 <br />
 
@@ -47,7 +47,7 @@
 |--|--|--|--|--|
 |✔️|Buchta|https://github.com/Fire-The-Fox/buchta||svelte, preact
 |✔️|Astro|https://docs.astro.build/en/recipes/bun/||thats Astro, you can use whatever
-|🔧|SvelteKit|https://github.com/sveltejs/kit|0.6.7|[svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun)
+|🔧|SvelteKit|https://github.com/sveltejs/kit|0.6.13|[svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun)
 ||Marko|https://github.com/marko-js/marko|
 ||Next.js|https://github.com/vercel/next.js|0.6.7|react
 
@@ -65,13 +65,13 @@
 ### Libraries
 || module |  github | when | comments |
 |--|--|--|--|--|
-||nodemailer|[nodemailer](https://github.com/nodemailer/nodemailer)|0.6.7|[issue](https://github.com/oven-sh/bun/issues/3003)
+||nodemailer|[nodemailer](https://github.com/nodemailer/nodemailer)|0.6.13|[issue](https://github.com/oven-sh/bun/issues/3003)
 |✔️|dotenv|[Bun docs](https://bun.sh/docs/cli/run#environment-variables)||📣 native \| [issue in windows](https://github.com/oven-sh/bun/issues/3042) and [issue](https://github.com/oven-sh/bun/issues/2823)
 |✔️|zod|[colinhacks/zod](https://github.com/colinhacks/zod)||schema validation
 |✔️|bcrypt|[Bun docs](https://bun.sh/docs/api/hashing)||📣 native
 |✔️| Discord.js | [discordjs/discord.js](https://github.com/discordjs/discord.js) | | |
-|🔧|sharp|[lovell/sharp](https://github.com/lovell/sharp)|0.6.8|image \| basic use may work, [discord issue](https://discord.com/channels/876711213126520882/1113918029097603233), [issue](https://github.com/oven-sh/bun/issues/3218)
-||Jimp|[jimp-dev/jimp](https://github.com/jimp-dev/jimp)|0.6.6|image \| [issue](https://github.com/oven-sh/bun/issues/3122)
+|🔧|sharp|[lovell/sharp](https://github.com/lovell/sharp)|0.6.13|image \| basic use may work, [discord issue](https://discord.com/channels/876711213126520882/1113918029097603233), [issue](https://github.com/oven-sh/bun/issues/3218)
+||Jimp|[jimp-dev/jimp](https://github.com/jimp-dev/jimp)|0.6.13|image \| [issue](https://github.com/oven-sh/bun/issues/3122)
 |✔️|jose|[panva/jose](https://github.com/panva/jose)||JWA, JWS, JWE, JWT, JWK, JWKS|
 ||jsonwebtoken|[node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
 ||jwt-simple|[node-jwt-simple](https://github.com/hokaccha/node-jwt-simple)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
