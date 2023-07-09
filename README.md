@@ -70,7 +70,7 @@
 |✔️|dotenv|[Bun docs](https://bun.sh/docs/cli/run#environment-variables)||📣 native \| [issue in windows](https://github.com/oven-sh/bun/issues/3042) and [issue](https://github.com/oven-sh/bun/issues/2823)
 |✔️|zod|[colinhacks/zod](https://github.com/colinhacks/zod)||schema validation
 |✔️|bcrypt|[Bun docs](https://bun.sh/docs/api/hashing)||📣 native
-|✔️| Discord.js | [discordjs/discord.js](https://github.com/discordjs/discord.js) | | |
+|✔️| Discord.js | [discordjs/discord.js](https://github.com/discordjs/discord.js) | |no voice chat |
 |🔧|sharp|[lovell/sharp](https://github.com/lovell/sharp)|0.6.13|image \| basic use may work, [discord issue](https://discord.com/channels/876711213126520882/1113918029097603233), [issue](https://github.com/oven-sh/bun/issues/3218)
 ||Jimp|[jimp-dev/jimp](https://github.com/jimp-dev/jimp)|0.6.13|image \| [issue](https://github.com/oven-sh/bun/issues/3122)
 |✔️|jose|[panva/jose](https://github.com/panva/jose)||JWA, JWS, JWE, JWT, JWK, JWKS|
