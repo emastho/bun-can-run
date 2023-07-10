@@ -15,7 +15,7 @@
 |✔️|Stric|https://github.com/bunsvr||ws
 |✔️|Vixeny|https://github.com/mimiMonads/functor||functional programming, fp
 |✔️|Hono|https://github.com/honojs||has graphql, trpc middleware
-|✔️|Express|https://github.com/expressjs/express|||
+|✔️|Express|https://github.com/expressjs/express|0.6.13|[express-session issue](https://github.com/oven-sh/bun/issues/3585)
 ||NestJS|https://github.com/nestjs/nest|0.6.13|[has interest](https://github.com/oven-sh/bun/issues/1641)
 
 <br />
