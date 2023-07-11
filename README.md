@@ -82,7 +82,7 @@
 ||compression|[compression](https://github.com/expressjs/compression)|0.6.13|[issue](https://github.com/oven-sh/bun/issues/3597)
 |✔️|chalk|[chalk/chalk](https://github.com/chalk/chalk)||terminal
 |✔️|commander|[commander](https://github.com/tj/commander.js)||terminal
-|✔️|lodash|[lodash/lodash](https://github.com/lodash/lodash)||[possible issue](https://github.com/oven-sh/bun/issues/3224)|utils
+|✔️|lodash|[lodash/lodash](https://github.com/lodash/lodash)||utils
 |✔️|underscore|[underscore](https://github.com/jashkenas/underscore/)||utils
 ||Inquirer|[Inquirer.js](https://github.com/SBoudrias/Inquirer.js)|0.6.8|terminal, [issue](https://github.com/oven-sh/bun/issues/3205)
 |✔️|<sub><sup>@googlemaps/google-maps-services-js</sup></sub>|[google-maps-services-js](https://github.com/googlemaps/google-maps-services-js)||[issue closed, should work](https://github.com/oven-sh/bun/issues/3211)
