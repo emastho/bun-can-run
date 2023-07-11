@@ -67,7 +67,7 @@
 || module |  github | when | comments |
 |--|--|--|--|--|
 ||nodemailer|[nodemailer](https://github.com/nodemailer/nodemailer)|0.6.13|[issue](https://github.com/oven-sh/bun/issues/3003)
-|✔️|dotenv|[Bun docs](https://bun.sh/docs/cli/run#environment-variables)||📣 native \| [issue in windows](https://github.com/oven-sh/bun/issues/3042) and [issue](https://github.com/oven-sh/bun/issues/2823)
+|✔️|dotenv|[Bun docs](https://bun.sh/docs/cli/run#environment-variables)||📣 native
 |✔️|zod|[colinhacks/zod](https://github.com/colinhacks/zod)||schema validation
 |✔️|bcrypt|[Bun docs](https://bun.sh/docs/api/hashing)||📣 native
 |✔️| Discord.js | [discordjs/discord.js](https://github.com/discordjs/discord.js) | |no voice chat |
