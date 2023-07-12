@@ -57,15 +57,6 @@
 
 <br />
 
-### GraphQL
-||module|github|when|comments|
-|--|--|--|--|--|
-|✔️|@apollo/server|https://github.com/apollographql/apollo-server|
-|✔️|graphql|https://github.com/graphql/graphql-js|
-|✔️|graphql-yoga|https://github.com/dotansimha/graphql-yoga|
-
-<br />
-
 ### Libraries
 || module |  github | when | comments |
 |--|--|--|--|--|
@@ -99,6 +90,22 @@
 |✔️|ldapjs|[ldapjs](https://github.com/ldapjs/node-ldapjs)||should work, because ldap-authenticate uses it underneath|
 |✔️|ldap-authentication|[ldap-authentication](https://github.com/shaozi/ldap-authentication)||[should work](https://github.com/oven-sh/bun/issues/3199)
 |✔️|runtimey|[runtimey](https://github.com/tr1ckydev/runtimey)||detect js runtime
+
+<br />
+
+### Testing
+||module|github|when|comments|
+|--|--|--|--|--|
+|✔️|bun:test|[bun docs](https://bun.sh/docs/cli/test)||📣 native
+
+<br />
+
+### GraphQL
+||module|github|when|comments|
+|--|--|--|--|--|
+|✔️|@apollo/server|https://github.com/apollographql/apollo-server|
+|✔️|graphql|https://github.com/graphql/graphql-js|
+|✔️|graphql-yoga|https://github.com/dotansimha/graphql-yoga|
 
 <br />
 
