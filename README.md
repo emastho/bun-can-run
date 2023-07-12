@@ -50,9 +50,10 @@
 |--|--|--|--|--|
 |✔️|Buchta|https://github.com/Fire-The-Fox/buchta||svelte, preact
 |✔️|Astro|https://docs.astro.build/en/recipes/bun/||thats Astro, you can use whatever
-|🔧|SvelteKit|https://github.com/sveltejs/kit|0.6.13|[svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun)
-||Marko|https://github.com/marko-js/marko|
+|🔧|SvelteKit|https://github.com/sveltejs/kit|0.6.14|[svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun)
+||Qwik|https://github.com/BuilderIO/qwik|0.6.14|
 ||Next.js|https://github.com/vercel/next.js|0.6.7|react
+|🔧|Vite|https://github.com/vitejs|0.6.14|[progress is being made](https://github.com/oven-sh/bun/issues/250)
 
 <br />
 
