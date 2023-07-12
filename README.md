@@ -96,7 +96,7 @@
 ### Testing
 ||module|github|when|comments|
 |--|--|--|--|--|
-|✔️|bun:test|[bun docs](https://bun.sh/docs/cli/test)||📣 native
+|✔️|jest|[bun docs](https://bun.sh/docs/cli/test)||📣 native \| [progress](https://github.com/oven-sh/bun/issues/1825)
 
 <br />
 
