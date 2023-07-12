@@ -97,8 +97,8 @@
 
 <br />
 
-### Web3 frameworks
+### Web3 / Cryptocurrency
 || module |  github | when | comments |
 |--|--|--|--|--|
 |🔧| Web3 | [web3/web3.js](https://github.com/web3/web3.js) |2023.05.28| only works if required `const Web3 = require("web3/dist/web3.min.js");`
-|🔧| Viem | [wagmi-dev/viem](https://github.com/wagmi-dev/viem) |2023.05.28| Doesn't work unless used with `bun build`
+|✔️| Viem | [wagmi-dev/viem](https://github.com/wagmi-dev/viem) ||
