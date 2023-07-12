@@ -82,7 +82,7 @@
 |✔️|oauth4webapi|[panva/oauth4webapi](https://github.com/panva/oauth4webapi)||oauth openid
 |🔧|puppeteer|[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer/)|0.6.13|[issue](https://github.com/oven-sh/bun/issues/3595)
 ||@clack/prompts|[natemoo-re/clack](https://github.com/natemoo-re/clack)|0.6.6|terminal, [issue](https://github.com/oven-sh/bun/issues/3099)
-||compression|[compression](https://github.com/expressjs/compression)|0.6.13|[issue](https://github.com/oven-sh/bun/issues/3597)
+|✔️|compression|[compression](https://github.com/expressjs/compression)||
 |✔️|chalk|[chalk/chalk](https://github.com/chalk/chalk)||terminal
 |✔️|commander|[commander](https://github.com/tj/commander.js)||terminal
 |✔️|lodash|[lodash/lodash](https://github.com/lodash/lodash)||utils
