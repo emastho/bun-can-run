@@ -72,7 +72,7 @@
 |✔️|dotenv|[Bun docs](https://bun.sh/docs/cli/run#environment-variables)||📣 native
 |✔️|zod|[colinhacks/zod](https://github.com/colinhacks/zod)||schema validation
 |✔️|bcrypt|[Bun docs](https://bun.sh/docs/api/hashing)||📣 native
-|✔️|stripe|[stripe/stripe-node](https://github.com/stripe/stripe-node)|0.6.14|should work, long time since the last time someone tried
+|✔️|stripe|[stripe/stripe-node](https://github.com/stripe/stripe-node)|0.6.14|should work \| payments
 |✔️| Discord.js | [discordjs/discord.js](https://github.com/discordjs/discord.js) | |no voice chat |
 |🔧|sharp|[lovell/sharp](https://github.com/lovell/sharp)|0.6.13|image \| basic use may work, [discord issue](https://discord.com/channels/876711213126520882/1113918029097603233), [issue](https://github.com/oven-sh/bun/issues/3218)
 ||Jimp|[jimp-dev/jimp](https://github.com/jimp-dev/jimp)|0.6.13|image \| [issue](https://github.com/oven-sh/bun/issues/3122)
