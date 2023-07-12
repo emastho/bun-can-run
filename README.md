@@ -37,6 +37,7 @@
 ||module|github|when|comments|
 |--|--|--|--|--|
 |✔️|Prisma|https://github.com/prisma/prisma|||
+|✔️|DrizzleORM|[DrizzleOrm](https://github.com/drizzle-team/drizzle-orm)|
 |✔️|great.db|https://github.com/tr1ckydev/great.db||sqlite only
 |✔️|duckdb|https://github.com/duckdb/duckdb|||
 |✔️|BunORM|https://github.com/deadlinecode/BunORM||sqlite only
