@@ -61,7 +61,7 @@
 || module |  github | when | comments |
 |--|--|--|--|--|
 ||nodemailer|[nodemailer](https://github.com/nodemailer/nodemailer)|0.6.13|[issue](https://github.com/oven-sh/bun/issues/3003)
-|✔️|dotenv|[Bun docs](https://bun.sh/docs/cli/run#environment-variables)||📣 native
+|✔️|~~dotenv~~|[Bun docs](https://bun.sh/docs/cli/run#environment-variables)||📣 native \| Bun.env or process.env
 |✔️|zod|[colinhacks/zod](https://github.com/colinhacks/zod)||schema validation
 |✔️|bcrypt|[Bun docs](https://bun.sh/docs/api/hashing)||📣 native
 |✔️|stripe|[stripe/stripe-node](https://github.com/stripe/stripe-node)|0.6.14|should work \| payments
