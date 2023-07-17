@@ -73,6 +73,7 @@
 ||jwt-simple|[node-jwt-simple](https://github.com/hokaccha/node-jwt-simple)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
 |✔️|oauth4webapi|[panva/oauth4webapi](https://github.com/panva/oauth4webapi)||oauth openid
 |✔️|puppeteer|[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer/)||
+|✔️|webview-bun|[webview-bun](https://github.com/tr1ckydev/webview-bun)||webview bindings
 ||@clack/prompts|[natemoo-re/clack](https://github.com/natemoo-re/clack)|0.6.6|terminal, [issue](https://github.com/oven-sh/bun/issues/3099)
 |✔️|compression|[compression](https://github.com/expressjs/compression)||
 |✔️|chalk|[chalk/chalk](https://github.com/chalk/chalk)||terminal
