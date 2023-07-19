@@ -16,7 +16,7 @@
 |✔️|Vixeny|[vixeny](https://github.com/mimiMonads/functor)||functional programming, fp
 |✔️|Fluxify|[fluxify](https://github.com/simylein/fluxify)||
 |✔️|Hono|https://github.com/honojs||has graphql, trpc middleware
-|✔️|Express|https://github.com/expressjs/express|0.6.13|[express-session issue](https://github.com/oven-sh/bun/issues/3585)
+|✔️|Express|https://github.com/expressjs/express||
 ||NestJS|https://github.com/nestjs/nest|0.6.13|[has interest](https://github.com/oven-sh/bun/issues/1641)
 
 <br />
