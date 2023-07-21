@@ -17,7 +17,7 @@
 |✔️|Fluxify|[fluxify](https://github.com/simylein/fluxify)||
 |✔️|Hono|https://github.com/honojs||has graphql, trpc middleware
 |✔️|Express|https://github.com/expressjs/express||
-||NestJS|https://github.com/nestjs/nest|0.6.13|[has interest](https://github.com/oven-sh/bun/issues/1641)
+||NestJS|https://github.com/nestjs/nest|0.7|[has interest](https://github.com/oven-sh/bun/issues/1641)
 
 <br />
 
@@ -26,8 +26,8 @@
 |--|--|--|--|--|
 |✔️| pg | [brianc/node-postgres](https://github.com/brianc/node-postgres) |
 |✔️|postgres|https://github.com/porsager/postgres|
-|🔧|mongoose|[Automattic/mongoose](https://github.com/Automattic/mongoose)| 0.6.13 | works, but [issue](https://github.com/oven-sh/bun/issues/3195)
-|🔧|mongodb|[mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native)| 0.6.13 | same as mongoose, [discord issue](https://discord.com/channels/876711213126520882/1116019102788636822)
+|🔧|mongoose|[Automattic/mongoose](https://github.com/Automattic/mongoose)| 0.7 | works, but [issue](https://github.com/oven-sh/bun/issues/3195)
+|🔧|mongodb|[mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native)| 0.7 | same as mongoose, [discord issue](https://discord.com/channels/876711213126520882/1116019102788636822)
 |✔️|mysql2|[sidorares/node-mysql2](https://github.com/sidorares/node-mysql2)|
 |✔️|redis|https://github.com/redis/node-redis|
 |✔️|bun:sqlite|https://bun.sh/docs/api/sqlite||📣 native
@@ -50,17 +50,17 @@
 |--|--|--|--|--|
 |✔️|Buchta|https://github.com/Fire-The-Fox/buchta||svelte, preact
 |✔️|Astro|https://docs.astro.build/en/recipes/bun/||thats Astro, you can use whatever
-|🔧|SvelteKit|https://github.com/sveltejs/kit|0.6.14|[svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun)
-||Qwik|https://github.com/BuilderIO/qwik|0.6.14|
+|🔧|SvelteKit|https://github.com/sveltejs/kit|0.7|[svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun)
+||Qwik|https://github.com/BuilderIO/qwik|0.7|
 ||Next.js|https://github.com/vercel/next.js|0.6.7|react
-|🔧|Vite|https://github.com/vitejs|0.6.14|[progress is being made](https://github.com/oven-sh/bun/issues/250)
+|🔧|Vite|https://github.com/vitejs|0.7|[progress is being made](https://github.com/oven-sh/bun/issues/250)
 
 <br />
 
 ### Libraries
 || module |  github | when | comments |
 |--|--|--|--|--|
-||nodemailer|[nodemailer](https://github.com/nodemailer/nodemailer)|0.6.13|[issue](https://github.com/oven-sh/bun/issues/3003)
+|🔧|nodemailer|[nodemailer](https://github.com/nodemailer/nodemailer)|0.7|[issue](https://github.com/oven-sh/bun/issues/3701)
 |✔️|dotenv|[Bun docs](https://bun.sh/docs/cli/run#environment-variables)||📣 native \| Bun.env or process.env
 |✔️|zod|[colinhacks/zod](https://github.com/colinhacks/zod)||schema validation
 |✔️|bcrypt|[Bun docs](https://bun.sh/docs/api/hashing)||📣 native
