@@ -1,4 +1,4 @@
-> At the current state of Bun, there is a higher chance of a library that is not in this list to be working than to not.<br />
+> At the current state of Bun, there is a higher chance of a library not in this list to be working than to not.<br />
 If a library doesn't work - it's a bug and you should create an [issue](https://github.com/oven-sh/bun/issues).
 <br />
 
