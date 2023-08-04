@@ -76,6 +76,7 @@
 |🟢|webview-bun|[webview-bun](https://github.com/tr1ckydev/webview-bun)||webview bindings
 ||@clack/prompts|[natemoo-re/clack](https://github.com/natemoo-re/clack)|0.6.6|terminal, [issue](https://github.com/oven-sh/bun/issues/3099)
 |🟢|compression|[compression](https://github.com/expressjs/compression)||
+|🟢|ts-pattern|[ts-pattern](https://github.com/gvergnaud/ts-pattern)||pattern matching
 |🟢|chalk|[chalk/chalk](https://github.com/chalk/chalk)||terminal
 |🟢|commander|[commander](https://github.com/tj/commander.js)||terminal
 |🟢|lodash|[lodash/lodash](https://github.com/lodash/lodash)||utils
