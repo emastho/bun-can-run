@@ -52,12 +52,12 @@ If a library doesn't work - it's a bug and you should create an [issue](https://
 ### Full stack frameworks
 ||name|github|when|comments|
 |--|--|--|--|--|
-|🟢|Buchta|https://github.com/Fire-The-Fox/buchta||svelte, preact
 |🟢|Astro|https://docs.astro.build/en/recipes/bun/||thats Astro, you can use whatever
 |🟢|SvelteKit|https://github.com/sveltejs/kit|0.7|[svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun)
 ||Qwik|https://github.com/BuilderIO/qwik|0.7|
 ||Next.js|https://github.com/vercel/next.js|0.6.7|react
 |🟢|Vite|https://github.com/vitejs||
+|🟢|Buchta|https://github.com/Fire-The-Fox/buchta||discontinued
 
 <br />
 
