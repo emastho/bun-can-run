@@ -86,7 +86,7 @@ If a library doesn't work - it's a bug and you should create an [issue](https://
 |🟢|lodash|[lodash/lodash](https://github.com/lodash/lodash)||utils
 |🟢|underscore|[underscore](https://github.com/jashkenas/underscore/)||utils
 |🟢|bun-promptx|[bun-promptx](https://github.com/wobsoriano/bun-promptx)||terminal
-||Inquirer|[Inquirer.js](https://github.com/SBoudrias/Inquirer.js)|0.6.8|terminal, [issue](https://github.com/oven-sh/bun/issues/3205)
+|🟢|Inquirer|[Inquirer.js](https://github.com/SBoudrias/Inquirer.js)|0.6.8|terminal, [issue](https://github.com/oven-sh/bun/issues/3205)
 |🟢|<sub><sup>@googlemaps/google-maps-services-js</sup></sub>|[google-maps-services-js](https://github.com/googlemaps/google-maps-services-js)||[issue closed, should work](https://github.com/oven-sh/bun/issues/3211)
 |🟢|bkg|[bkg](https://github.com/theseyan/bkg)||bun into single executable
 |🟢|otpauth|[hectorm/otpauth](https://github.com/hectorm/otpauth)||one time password (HOTP/TOTP)
