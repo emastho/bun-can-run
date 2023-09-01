@@ -70,15 +70,15 @@ If a library doesn't work - it's a bug and you should create an [issue](https://
 |🟢|bcrypt|[Bun docs](https://bun.sh/docs/api/hashing)||📣 native
 |🟢|stripe|[stripe/stripe-node](https://github.com/stripe/stripe-node)|0.6.14|should work \| payments
 |🟢| Discord.js | [discordjs/discord.js](https://github.com/discordjs/discord.js) | |no voice chat |
-|🔧|sharp|[lovell/sharp](https://github.com/lovell/sharp)|0.6.13|image \| basic use may work, [discord issue](https://discord.com/channels/876711213126520882/1113918029097603233), [issue](https://github.com/oven-sh/bun/issues/3218)
-||Jimp|[jimp-dev/jimp](https://github.com/jimp-dev/jimp)|0.6.13|image \| [issue](https://github.com/oven-sh/bun/issues/3122)
+|🟢|sharp|[lovell/sharp](https://github.com/lovell/sharp)||image \|
+|🟢|Jimp|[jimp-dev/jimp](https://github.com/jimp-dev/jimp)||image \|
 |🟢|jose|[panva/jose](https://github.com/panva/jose)||JWA, JWS, JWE, JWT, JWK, JWKS|
 ||jsonwebtoken|[node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
 ||jwt-simple|[node-jwt-simple](https://github.com/hokaccha/node-jwt-simple)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
 |🟢|oauth4webapi|[panva/oauth4webapi](https://github.com/panva/oauth4webapi)||oauth openid
 |🟢|puppeteer|[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer/)||
 |🟢|webview-bun|[webview-bun](https://github.com/tr1ckydev/webview-bun)||webview bindings
-||@clack/prompts|[natemoo-re/clack](https://github.com/natemoo-re/clack)|0.6.6|terminal, [issue](https://github.com/oven-sh/bun/issues/3099)
+|🟢|@clack/prompts|[natemoo-re/clack](https://github.com/natemoo-re/clack)||terminal
 |🟢|compression|[compression](https://github.com/expressjs/compression)||
 |🟢|ts-pattern|[ts-pattern](https://github.com/gvergnaud/ts-pattern)||pattern matching
 |🟢|chalk|[chalk/chalk](https://github.com/chalk/chalk)||terminal
