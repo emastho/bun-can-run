@@ -73,8 +73,8 @@ If a library doesn't work - it's a bug and you should create an [issue](https://
 |🟢|sharp|[lovell/sharp](https://github.com/lovell/sharp)||image \|
 |🟢|Jimp|[jimp-dev/jimp](https://github.com/jimp-dev/jimp)||image \|
 |🟢|jose|[panva/jose](https://github.com/panva/jose)||JWA, JWS, JWE, JWT, JWK, JWKS|
-||jsonwebtoken|[node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
-||jwt-simple|[node-jwt-simple](https://github.com/hokaccha/node-jwt-simple)|0.6.7|jose works, [issue](https://github.com/oven-sh/bun/issues/1454)|
+|🟢|jsonwebtoken|[node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)||
+|🟢|jwt-simple|[node-jwt-simple](https://github.com/hokaccha/node-jwt-simple)||
 |🟢|oauth4webapi|[panva/oauth4webapi](https://github.com/panva/oauth4webapi)||oauth openid
 |🟢|puppeteer|[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer/)||
 |🟢|webview-bun|[webview-bun](https://github.com/tr1ckydev/webview-bun)||webview bindings
@@ -102,7 +102,9 @@ If a library doesn't work - it's a bug and you should create an [issue](https://
 
 ### Testing
 ||module|github|when|comments|
-|--|--|--|--|--|
+|--|--|--|--|--|LT
+
+1:57 / 3:46
 |🟢|jest|[bun docs](https://bun.sh/docs/cli/test)||📣 native \| [progress](https://github.com/oven-sh/bun/issues/1825)
 
 <br />
