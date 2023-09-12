@@ -102,9 +102,7 @@ If a library doesn't work - it's a bug and you should create an [issue](https://
 
 ### Testing
 ||module|github|when|comments|
-|--|--|--|--|--|LT
-
-1:57 / 3:46
+|--|--|--|--|--|
 |🟢|jest|[bun docs](https://bun.sh/docs/cli/test)||📣 native \| [progress](https://github.com/oven-sh/bun/issues/1825)
 
 <br />
